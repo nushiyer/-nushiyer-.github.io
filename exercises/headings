@@ -1,0 +1,11 @@
+<h1 style="font-size:90px;">Welcome to the Headings Page!</h1>
+<hr>
+<h2> This is a slightly smaller heading </h2>
+<html>
+
+<head>
+  <title>HTML is awesome!</title>
+  <meta charset="UTF-8">
+</head>
+
+<body>
