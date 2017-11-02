@@ -1,0 +1,17 @@
+p {
+  color: red; font-size: 25px;
+}
+
+#id1 {
+  color: blue;
+  font-family: arial;
+}
+
+.center {
+  text-align: center;
+  color: red;
+}
+.bluev p {
+  color: blue;
+  font-family:courier;
+}
