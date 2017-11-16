@@ -1,0 +1,17 @@
+.content {
+  background-color:#FBFBFB;
+}
+
+.content p {
+  font-family:"Ariel", sans-serif;
+  color:#6C4F2E;
+}
+table, th, td {
+    border: 1px solid black; 
+    border-collapse: collapse;
+}
+th, td {
+    padding: 10px;
+    text-align: center; 
+    background-color: #F0E7C3
+}
